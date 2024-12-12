@@ -3,6 +3,7 @@
 
 I am a computer engineering student at CSUF and I plan on graduating in 2028.
 
+My GitHub page is https://github.com/RichardUMM.
 
 ## Favorite CPSC 120L Labs
 
